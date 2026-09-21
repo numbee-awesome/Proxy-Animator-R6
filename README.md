@@ -4,7 +4,7 @@ Adds paired leg animation functionality without having to change the core R6 rig
 
 Reads through a table of animations and uses CFrame math to inverse offset the R6 torso's animation for R6 legs to animate independently of the Torso's .Transform
 
-.rbxl example place is linked along with .rbxm with the modulescript, drag and drop .rbxm for install
+.rbxl example place is linked along with .rbxm with the modulescript, drag and drop .rbxm for install (more detailed install and module code here soon)
 
 # Examples
 
