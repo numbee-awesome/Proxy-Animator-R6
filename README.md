@@ -11,7 +11,7 @@ Reads through a table of animations and uses CFrame math to inverse offset the R
 <img width="816" height="490" alt="RobloxStudioBeta_dI3gH1RpxP" src="https://github.com/user-attachments/assets/be0ca5aa-1e4b-4491-8ca4-d3953a898961" />
 <img width="378" height="439" alt="RobloxStudioBeta_M5IY3d3dfj-ezgif com-optimize" src="https://github.com/user-attachments/assets/b6bef5b7-f321-4c67-a21f-9fd30aaed247" />
 
-*notice how the legs are moving independently from the r6 torso (again this does NOT the R6 rig)
+*notice how the legs are moving independently from the r6 torso (again this does NOT modify the R6 rig)
 
 
 # Methods
